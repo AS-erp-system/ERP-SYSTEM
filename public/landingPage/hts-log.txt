@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Sat, 12 Apr 2025 19:43:07 at https://preview.colorlib.com/theme/course/index.html
+(httrack https://preview.colorlib.com/theme/course/index.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:45:03	Warning: 	Warning: store application/octet-stream without scan: preview.colorlib.com/theme/course/plugins/fontawesome-free-5.0.1/webfonts/fa-brands-400.svg
+19:45:03	Warning: 	Warning: store application/octet-stream without scan: preview.colorlib.com/theme/course/plugins/fontawesome-free-5.0.1/webfonts/fa-regular-400.svg
+19:45:03	Warning: 	Warning: store application/octet-stream without scan: preview.colorlib.com/theme/course/plugins/fontawesome-free-5.0.1/webfonts/fa-solid-900.svg
+19:45:08	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/course/about.html (from https://preview.colorlib.com/theme/course/teachers.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 1 seconds : 118 links scanned, 116 files written (5966773 bytes overall) [4236808 bytes received at 35014 bytes/sec], 2766213 bytes transferred using HTTP compression in 72 files, ratio 34%, 59.0 requests per connection
+(1 errors, 3 warnings, 0 messages)
