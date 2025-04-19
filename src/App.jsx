@@ -17,33 +17,25 @@ function App() {
         <Route
           path="/admin"
           element={
-            <ProtectedRoute role="admin">
               <AdminDashboard />
-            </ProtectedRoute>
           }
         />
         <Route
           path="/director"
           element={
-            <ProtectedRoute role="director">
               <DirectorDashboard />
-            </ProtectedRoute>
           }
         />
         <Route
           path="/teacher"
           element={
-            <ProtectedRoute role="teacher">
               <TeacherDashboard />
-            </ProtectedRoute>
           }
         />
         <Route
           path="/student"
           element={
-            <ProtectedRoute role="student">
               <StudentDashboard />
-            </ProtectedRoute>
           }
         />
       </Routes>
